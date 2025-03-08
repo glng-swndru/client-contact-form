@@ -79,3 +79,7 @@ Access the application in your browser at:
 http://localhost:3000
 ```
 
+## Related Project
+This frontend application works with the backend API:
+- [API Contact Form](https://github.com/glng-swndru/api-contact-form)
+
